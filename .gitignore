@@ -4,7 +4,6 @@ node_modules/
 # build artifacts
 dist/
 build/
-out/
 
 # logs
 *.log
@@ -26,10 +25,6 @@ pnpm-debug.log*
 # Claude Code / local agent artifacts
 .claude/
 .idx/
-
-# output artifacts (usually large / generated)
-output/
-*.json
 
 # temp
 tmp/

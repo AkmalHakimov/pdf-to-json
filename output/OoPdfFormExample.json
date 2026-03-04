@@ -1,0 +1,235 @@
+{
+  "formType": "unknown",
+  "extractedAt": "2026-03-04T16:03:24.960Z",
+  "confidence": 0.947,
+  "flaggedFields": [
+    "Country",
+    "Important"
+  ],
+  "data": {
+    "formTitle": "To fill out the form, make sure the PDF file is not read-only. If the file is read-only save it first to a",
+    "fields": {
+      "Given Name": "Sunnat Hakimov",
+      "Family Name": "wefvev",
+      "Address 1": "maxosa",
+      "House nr": "23",
+      "Address 2": "123",
+      "Postcode": "132",
+      "City": "123",
+      "Country": null,
+      "Gender": "Man",
+      "Height (cm)": "150123q",
+      "Driving License": false,
+      "I speak and understand (tick all that apply)": false,
+      "Deutsch": true,
+      "English": true,
+      "Français": false,
+      "Esperanto": true,
+      "Favourite colour": "Black",
+      "Important": "Save the completed PDF form (use menu File - Save)."
+    },
+    "sections": {
+      "General": {
+        "Given Name": "Sunnat Hakimov",
+        "Family Name": "wefvev",
+        "Address 1": "maxosa",
+        "House nr": "23",
+        "Address 2": "123",
+        "Postcode": "132",
+        "City": "123",
+        "Country": null,
+        "Gender": "Man",
+        "Height (cm)": "150123q",
+        "Driving License": false,
+        "I speak and understand (tick all that apply)": false,
+        "Deutsch": true,
+        "English": true,
+        "Français": false,
+        "Esperanto": true,
+        "Favourite colour": "Black",
+        "Important": "Save the completed PDF form (use menu File - Save)."
+      }
+    },
+    "rawFields": [
+      {
+        "label": "Given Name",
+        "value": "Sunnat Hakimov",
+        "type": "text",
+        "confidence": 1,
+        "method": "widget",
+        "page": 0,
+        "y": 374.1000061035156,
+        "widgetName": "Given Name Text Box"
+      },
+      {
+        "label": "Family Name",
+        "value": "wefvev",
+        "type": "text",
+        "confidence": 1,
+        "method": "widget",
+        "page": 0,
+        "y": 406.6000061035156,
+        "widgetName": "Family Name Text Box"
+      },
+      {
+        "label": "Address 1",
+        "value": "maxosa",
+        "type": "text",
+        "confidence": 1,
+        "method": "widget",
+        "page": 0,
+        "y": 439.5,
+        "widgetName": "Address 1 Text Box"
+      },
+      {
+        "label": "House nr",
+        "value": "23",
+        "type": "text",
+        "confidence": 1,
+        "method": "widget",
+        "page": 0,
+        "y": 439.3999938964844,
+        "widgetName": "House nr Text Box"
+      },
+      {
+        "label": "Address 2",
+        "value": "123",
+        "type": "text",
+        "confidence": 1,
+        "method": "widget",
+        "page": 0,
+        "y": 459.3999938964844,
+        "widgetName": "Address 2 Text Box"
+      },
+      {
+        "label": "Postcode",
+        "value": "132",
+        "type": "text",
+        "confidence": 1,
+        "method": "widget",
+        "page": 0,
+        "y": 479.29998779296875,
+        "widgetName": "Postcode Text Box"
+      },
+      {
+        "label": "City",
+        "value": "123",
+        "type": "text",
+        "confidence": 1,
+        "method": "widget",
+        "page": 0,
+        "y": 479.29998779296875,
+        "widgetName": "City Text Box"
+      },
+      {
+        "label": "Country",
+        "value": null,
+        "type": "text",
+        "confidence": 0.4,
+        "method": "default",
+        "page": 0,
+        "y": 511.8999938964844,
+        "widgetName": "Country Combo Box"
+      },
+      {
+        "label": "Gender",
+        "value": "Man",
+        "type": "text",
+        "confidence": 1,
+        "method": "widget",
+        "page": 0,
+        "y": 544.4000244140625,
+        "widgetName": "Gender List Box"
+      },
+      {
+        "label": "Height (cm)",
+        "value": "150123q",
+        "type": "text",
+        "confidence": 1,
+        "method": "widget",
+        "page": 0,
+        "y": 577,
+        "widgetName": "Height Formatted Field"
+      },
+      {
+        "label": "Driving License",
+        "value": false,
+        "type": "checkbox",
+        "confidence": 1,
+        "method": "widget",
+        "page": 0,
+        "y": 609.7000122070312,
+        "widgetName": "Driving License Check Box"
+      },
+      {
+        "label": "I speak and understand (tick all that apply)",
+        "value": false,
+        "type": "checkbox",
+        "confidence": 1,
+        "method": "widget",
+        "page": 0,
+        "y": 653.5,
+        "widgetName": "Language 1 Check Box"
+      },
+      {
+        "label": "Deutsch",
+        "value": true,
+        "type": "checkbox",
+        "confidence": 1,
+        "method": "widget",
+        "page": 0,
+        "y": 653.5,
+        "widgetName": "Language 2 Check Box"
+      },
+      {
+        "label": "English",
+        "value": true,
+        "type": "checkbox",
+        "confidence": 1,
+        "method": "widget",
+        "page": 0,
+        "y": 653.5,
+        "widgetName": "Language 3 Check Box"
+      },
+      {
+        "label": "Français",
+        "value": false,
+        "type": "checkbox",
+        "confidence": 1,
+        "method": "widget",
+        "page": 0,
+        "y": 653.5,
+        "widgetName": "Language 4 Check Box"
+      },
+      {
+        "label": "Esperanto",
+        "value": true,
+        "type": "checkbox",
+        "confidence": 1,
+        "method": "widget",
+        "page": 0,
+        "y": 653.5,
+        "widgetName": "Language 5 Check Box"
+      },
+      {
+        "label": "Favourite colour",
+        "value": "Black",
+        "type": "text",
+        "confidence": 1,
+        "method": "widget",
+        "page": 0,
+        "y": 684.4000244140625,
+        "widgetName": "Favourite Colour List Box"
+      },
+      {
+        "label": "Important",
+        "value": "Save the completed PDF form (use menu File - Save).",
+        "type": "text",
+        "confidence": 0.65,
+        "method": "anchor",
+        "page": 0,
+        "y": 739
+      }
+    ]
+  }
+}

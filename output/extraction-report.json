@@ -1,0 +1,61 @@
+{
+  "generatedAt": "2026-03-04T16:03:24.565Z",
+  "forms": [
+    {
+      "formType": "unknown",
+      "outputFile": "/Users/akmalkhakimov/Desktop/Claude pdf to json/output/Form.json",
+      "confidence": 0.922,
+      "flaggedFields": [
+        "Language"
+      ],
+      "status": "success"
+    },
+    {
+      "formType": "unknown",
+      "outputFile": "/Users/akmalkhakimov/Desktop/Claude pdf to json/output/OoPdfFormExample.json",
+      "confidence": 0.947,
+      "flaggedFields": [
+        "Country",
+        "Important"
+      ],
+      "status": "success"
+    },
+    {
+      "formType": "SC-100",
+      "outputFile": "/Users/akmalkhakimov/Desktop/Claude pdf to json/output/sc100.json",
+      "confidence": 0.884,
+      "flaggedFields": [
+        "Plaintiff residing state",
+        "Defendant residing state",
+        "How much money the defendant owes the plaintiff"
+      ],
+      "status": "success"
+    },
+    {
+      "formType": "SC-101",
+      "outputFile": "/Users/akmalkhakimov/Desktop/Claude pdf to json/output/sc101.json",
+      "confidence": 0.8,
+      "flaggedFields": [
+        "Case number",
+        "Further explanation for correction",
+        "Further explanation to vacate award",
+        "Explain why arbitration agreement and notice of award are not attached",
+        "Did you or your attorney attend the arbitration hearing"
+      ],
+      "status": "success"
+    },
+    {
+      "formType": "SC-103",
+      "outputFile": "/Users/akmalkhakimov/Desktop/Claude pdf to json/output/sc103.json",
+      "confidence": 0.75,
+      "flaggedFields": [
+        "Case number (SC-103)",
+        "Signature date (SC-103)",
+        "Type or print name and title (SC-103)",
+        "What is the business classified as",
+        "This form is attached to"
+      ],
+      "status": "success"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "formType": "SC-101",
+  "extractedAt": "2026-03-04T16:03:25.250Z",
+  "confidence": 0.8,
+  "flaggedFields": [
+    "Case number",
+    "Further explanation for correction",
+    "Further explanation to vacate award",
+    "Explain why arbitration agreement and notice of award are not attached",
+    "Did you or your attorney attend the arbitration hearing"
+  ],
+  "data": {
+    "sc101-case-number": "",
+    "sc101-dispute-amount": "Test",
+    "sc101-notice-award-date": "Test",
+    "sc101-explain-b": "Test",
+    "sc101-explain-b2": "",
+    "sc101-explain-c": "TestTestTestTest",
+    "sc101-explain-c2": "",
+    "sc101-no-attend-explain": "TestTestTest",
+    "sc101-attachment-explain": "",
+    "sc101-date": "Test",
+    "sc101-name": "Test",
+    "sc101-role": "client",
+    "sc101-arbitrator-decision": "client-pays",
+    "sc101-decision-amount": "Test",
+    "sc101-filing-reason": "correct",
+    "sc101-new-arbitration": "no",
+    "sc101-attended": null
+  }
+}

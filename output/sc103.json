@@ -1,0 +1,26 @@
+{
+  "formType": "SC-103",
+  "extractedAt": "2026-03-04T16:03:25.408Z",
+  "confidence": 0.75,
+  "flaggedFields": [
+    "Case number (SC-103)",
+    "Signature date (SC-103)",
+    "Type or print name and title (SC-103)",
+    "What is the business classified as",
+    "This form is attached to"
+  ],
+  "data": {
+    "sc103-case-number": "",
+    "sc103-business-name": "erhrht",
+    "sc103-business-address": "rehtrh",
+    "sc103-mailing-address": "rthrthrhrth",
+    "sc103-business-type-other": "234234",
+    "sc103-county": "234234",
+    "sc103-statement-number": "234234",
+    "sc103-expiry-date": "234",
+    "sc103-signature-date": "",
+    "sc103-signer-name": "",
+    "sc103-business-type": null,
+    "sc103-attachment": null
+  }
+}

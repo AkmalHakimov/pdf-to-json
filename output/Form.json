@@ -1,0 +1,126 @@
+{
+  "formType": "unknown",
+  "extractedAt": "2026-03-04T16:03:24.784Z",
+  "confidence": 0.922,
+  "flaggedFields": [
+    "Language"
+  ],
+  "data": {
+    "formTitle": "This is an example of a user fillable PDF form. The fields of this form have been selected to",
+    "fields": {
+      "Full name": "Akmal Hakimov",
+      "ID": "123123123",
+      "Gender": "0",
+      "Male": "0",
+      "Married": true,
+      "City": "New York",
+      "City (2)": "French",
+      "Notes": "12312312312323\n]",
+      "Language": null
+    },
+    "sections": {
+      "General": {
+        "Full name": "Akmal Hakimov",
+        "ID": "123123123",
+        "Gender": "0",
+        "Male": "0",
+        "Married": true,
+        "City": "New York",
+        "City (2)": "French",
+        "Notes": "12312312312323\n]",
+        "Language": null
+      }
+    },
+    "rawFields": [
+      {
+        "label": "Full name",
+        "value": "Akmal Hakimov",
+        "type": "text",
+        "confidence": 1,
+        "method": "widget",
+        "page": 0,
+        "y": 147.13995361328125,
+        "widgetName": "FullName"
+      },
+      {
+        "label": "ID",
+        "value": "123123123",
+        "type": "text",
+        "confidence": 1,
+        "method": "widget",
+        "page": 0,
+        "y": 187.13995361328125,
+        "widgetName": "ID"
+      },
+      {
+        "label": "Gender",
+        "value": "0",
+        "type": "text",
+        "confidence": 1,
+        "method": "widget",
+        "page": 0,
+        "y": 227.13995361328125,
+        "widgetName": "Gender"
+      },
+      {
+        "label": "Male",
+        "value": "0",
+        "type": "text",
+        "confidence": 1,
+        "method": "widget",
+        "page": 0,
+        "y": 227.13995361328125,
+        "widgetName": "Gender"
+      },
+      {
+        "label": "Married",
+        "value": true,
+        "type": "checkbox",
+        "confidence": 1,
+        "method": "widget",
+        "page": 0,
+        "y": 267.13995361328125,
+        "widgetName": "Married"
+      },
+      {
+        "label": "City",
+        "value": "New York",
+        "type": "text",
+        "confidence": 1,
+        "method": "widget",
+        "page": 0,
+        "y": 307.13995361328125,
+        "widgetName": "City"
+      },
+      {
+        "label": "City (2)",
+        "value": "French",
+        "type": "text",
+        "confidence": 1,
+        "method": "widget",
+        "page": 0,
+        "y": 349.9999694824219,
+        "widgetName": "Language"
+      },
+      {
+        "label": "Notes",
+        "value": "12312312312323\n]",
+        "type": "text",
+        "confidence": 1,
+        "method": "widget",
+        "page": 0,
+        "y": 429.9999694824219,
+        "widgetName": "Notes"
+      },
+      {
+        "label": "Language",
+        "value": null,
+        "type": "text",
+        "confidence": 0.3,
+        "method": "default",
+        "page": 0,
+        "y": 352
+      }
+    ]
+  }
+}
