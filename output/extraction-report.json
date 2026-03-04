@@ -3,7 +3,7 @@
   "forms": [
     {
       "formType": "unknown",
-      "outputFile": "/Users/akmalkhakimov/Desktop/Claude pdf to json/output/Form.json",
+      "outputFile": "/Users/akmalkhakimov/Desktop/pdf to json/output/Form.json",
       "confidence": 0.922,
       "flaggedFields": [
         "Language"
@@ -12,7 +12,7 @@
     },
     {
       "formType": "unknown",
-      "outputFile": "/Users/akmalkhakimov/Desktop/Claude pdf to json/output/OoPdfFormExample.json",
+      "outputFile": "/Users/akmalkhakimov/Desktop/pdf to json/output/OoPdfFormExample.json",
       "confidence": 0.947,
       "flaggedFields": [
         "Country",
@@ -22,7 +22,7 @@
     },
     {
       "formType": "SC-100",
-      "outputFile": "/Users/akmalkhakimov/Desktop/Claude pdf to json/output/sc100.json",
+      "outputFile": "/Users/akmalkhakimov/Desktop/pdf to json/output/sc100.json",
       "confidence": 0.884,
       "flaggedFields": [
         "Plaintiff residing state",
@@ -33,7 +33,7 @@
     },
     {
       "formType": "SC-101",
-      "outputFile": "/Users/akmalkhakimov/Desktop/Claude pdf to json/output/sc101.json",
+      "outputFile": "/Users/akmalkhakimov/Desktop/pdf to json/output/sc101.json",
       "confidence": 0.8,
       "flaggedFields": [
         "Case number",
@@ -46,7 +46,7 @@
     },
     {
       "formType": "SC-103",
-      "outputFile": "/Users/akmalkhakimov/Desktop/Claude pdf to json/output/sc103.json",
+      "outputFile": "/Users/akmalkhakimov/Desktop/pdf to json/output/sc103.json",
       "confidence": 0.75,
       "flaggedFields": [
         "Case number (SC-103)",
