@@ -22,10 +22,6 @@ pnpm-debug.log*
 .env.*
 !.env.example
 
-# Claude Code / local agent artifacts
-.claude/
-.idx/
-
 # temp
 tmp/
 temp/
