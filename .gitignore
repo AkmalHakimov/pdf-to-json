@@ -1,0 +1,36 @@
+# dependencies
+node_modules/
+
+# build artifacts
+dist/
+build/
+out/
+
+# logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
+
+# env / secrets
+.env
+.env.*
+!.env.example
+
+# Claude Code / local agent artifacts
+.claude/
+.idx/
+
+# output artifacts (usually large / generated)
+output/
+*.json
+
+# temp
+tmp/
+temp/
